@@ -1,0 +1,39 @@
+html {
+    font-family: "helvetice Neue";
+    font-size: 16px;
+    background-image: url(m2.jpg);
+    background-size: cover
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0px;
+    content: "";
+    clear: both;
+    height: 0;
+}
+#featured-article figure img {
+    margin: 20px;
+    padding: 20px;
+    image-resolution: 30px;
+    size: 400px;
+    border-radius: 30%
+}
+figure{
+    background-image: url(ma.jpg) ;
+    margin: 20px;
+    width:685px ;
+    height: 537px;
+    border-radius: 30%
+}
+#featured-article figure p{
+   color: rgb(255, 255, 255);
+   padding-top: 270px;
+   padding-left: 230px;
+   font-size: 30px;
+
+}
+a {
+    color: wheat
+}
