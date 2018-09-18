@@ -23,8 +23,8 @@ html {
 figure{
     background-image: url(ma.jpg) ;
     margin: 20px;
-    width:685px ;
-    height: 537px;
+    width:420px ;
+    height: 250px;
     border-radius: 30%
 }
 #featured-article figure p{
