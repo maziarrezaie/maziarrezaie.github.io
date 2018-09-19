@@ -99,7 +99,9 @@ h1 {
 
 lorem ipsum \*this text should to be italic\*
 
-<kbd>ctrl</kbd>+<kbd>v</kbd>
+<kbd>ctrl</kbd>+<kbd>v</kbd>  
+
+[image1]: http://dummyimage.com/400 "tex for image"
 
 Metadata contains information about the page. This includes information about styles, scripts and data to[google][labore] help software (search engines, browsers, etc.) use and render the page. Metadata for styles and scripts may be defined in the page [google] or link to another file that has the information. 
 
