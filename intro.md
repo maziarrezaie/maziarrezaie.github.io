@@ -93,19 +93,37 @@ h1 {
 
 <maziar@gmail.com>
 
+----
 <a herf="http://google.com">google </a>
 
 <a herf="mail: maziar.rezaie">EMAIL</a>
 
 lorem ipsum \*this text should to be italic\*
 
+----
+
 <kbd>ctrl</kbd>+<kbd>v</kbd>  
 
-[image1]: http://dummyimage.com/400 "tex for image"
+
+
+![image](https://dummyimage.com/400 )"tex for image"    
+
+----
+|![image](https://dummyimage.com/100 ) |  raft az dele man chera neshato shadi yarab <a herf="http://google.com">google </a> 
+| -------- | -------- |
+|  ‎‎[www.google.com](www.google.com) in ja mitonid entetzu jhgd djg jfg djgfjhg   | ![image](https://dummyimage.com/100 )          | 
+
+
+
+
+
+
 
 Metadata contains information about the page. This includes information about styles, scripts and data to[google][labore] help software (search engines, browsers, etc.) use and render the page. Metadata for styles and scripts may be defined in the page [google] or link to another file that has the information. 
 
 [1]: ./exercise.md 
+
+----
 
 
 
